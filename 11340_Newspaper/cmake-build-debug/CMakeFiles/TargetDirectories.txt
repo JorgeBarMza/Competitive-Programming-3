@@ -1,0 +1,3 @@
+/Users/jb/Documents/Technology/Competitive Programming/11340_Newspaper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jb/Documents/Technology/Competitive Programming/11340_Newspaper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jb/Documents/Technology/Competitive Programming/11340_Newspaper/cmake-build-debug/CMakeFiles/11340_Newspaper.dir
