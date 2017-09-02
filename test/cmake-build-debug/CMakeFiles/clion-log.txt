@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/jb/Documents/Technology/Competitive Programming/Competitive-Programming-3/test"
+CMake Error at CMakeLists.txt:7 (add_executable):
+  The target name "test" is reserved or not valid for certain CMake features,
+  such as generator expressions, and may result in undefined behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/jb/Documents/Technology/Competitive Programming/Competitive-Programming-3/test/cmake-build-debug/CMakeFiles/CMakeOutput.log".

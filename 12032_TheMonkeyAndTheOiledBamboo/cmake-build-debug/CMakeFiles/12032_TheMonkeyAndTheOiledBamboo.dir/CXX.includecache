@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jb/Documents/Technology/Competitive Programming/Competitive-Programming-3/12032_TheMonkeyAndTheOiledBamboo/main.cpp
+iostream
+-
+sstream
+-
+cstdio
+-
+cmath
+-
+cstring
+-
+cctype
+-
+string
+-
+vector
+-
+list
+-
+set
+-
+map
+-
+queue
+-
+stack
+-
+algorithm
+-
+functional
+-
+bitset
+-
+
