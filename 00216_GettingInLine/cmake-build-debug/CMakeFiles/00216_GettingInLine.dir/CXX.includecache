@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jb/Documents/technology/programming/competitive-programming/Competitive-Programming-3/00216_GettingInLine/main.cpp
+iostream
+-
+vector
+-
+math.h
+-
+iomanip
+-
+
